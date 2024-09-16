@@ -1,7 +1,7 @@
 # Hi there, I'm Fuad Hasyim (cryptofinderid)! 👋  
-### Android Developer | Web Programmer | Airdrop Specialist  
+### Android Developer | Web Programmer | Airdrop Hunter  
 
-I am an experienced Android Developer with knowledge in **Node.js**, **JavaScript**, **Web Development**, and **Airdrop Management**. Below is a visual representation of my expertise areas:
+I am an experienced Android Developer with knowledge in **Node.js**, **JavaScript**, **Web Development**, and **Airdrop Hunter**. Below is a visual representation of my expertise areas:
 
 ## 💻 Skills  
 <div align="center">
@@ -21,9 +21,9 @@ Feel free to explore my repositories and connect with me for any exciting Androi
 ---
 
 # Halo, Saya Fuad Hasyim (cryptofinderid)! 👋  
-### Pengembang Android | Pemrogram Web | Spesialis Airdrop  
+### Pengembang Android | Pemrogram Web | Pencari Airdrop  
 
-Saya seorang pengembang Android berpengalaman dengan pengetahuan di **Node.js**, **JavaScript**, **Pengembangan Web**, dan **Manajemen Airdrop**. Berikut adalah representasi visual dari area keahlian saya:
+Saya seorang pengembang Android berpengalaman dengan pengetahuan di **Node.js**, **JavaScript**, **Pengembangan Web**, dan **Pencari Airdrop**. Berikut adalah representasi visual dari area keahlian saya:
 
 ## 💻 Keahlian  
 <div align="center">
