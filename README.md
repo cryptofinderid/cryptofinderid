@@ -23,4 +23,19 @@ Feel free to explore my repositories and connect with me for any exciting Androi
 # Halo, Saya Fuad Hasyim (cryptofinderid)! 👋  
 ### Pengembang Android | Pemrogram Web | Spesialis Airdrop  
 
-Saya seorang pengembang Android berpengalaman dengan pengetahuan di **Node.js**, **JavaScript**, **Pengembangan Web**, dan **Manajemen Airdrop**. Berikut adalah representasi visual dari area keahlian saya
+Saya seorang pengembang Android berpengalaman dengan pengetahuan di **Node.js**, **JavaScript**, **Pengembangan Web**, dan **Manajemen Airdrop**. Berikut adalah representasi visual dari area keahlian saya:
+
+## 💻 Keahlian  
+<div align="center">
+
+![Android](https://img.shields.io/badge/Android-30%25-brightgreen?style=for-the-badge&logo=android)
+![Node.js](https://img.shields.io/badge/Node.js-20%25-brightgreen?style=for-the-badge&logo=node.js)
+![Web](https://img.shields.io/badge/Web%20Development-20%25-brightgreen?style=for-the-badge&logo=javascript)
+![Airdrop](https://img.shields.io/badge/Airdrop-30%25-brightgreen?style=for-the-badge&logo=blockchaindotcom)
+
+</div>
+
+---
+
+## 🌐 Mari Terhubung  
+Jangan ragu untuk menjelajahi repositori saya dan hubungi saya untuk proyek Android atau Pengembangan Web yang menarik!
